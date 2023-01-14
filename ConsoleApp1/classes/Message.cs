@@ -10,7 +10,7 @@ namespace ConsoleApp1.classes
     {
         public static void Hello()
         {
-            Console.WriteLine("hi there fetch");
+            Console.WriteLine("hi there fetch hello ali");
         }
     }
 }
